@@ -21,7 +21,6 @@ body {
 
 .header {
   width: 100vw;
-  height: 100vh;
 }
 
 .header .container nav {
@@ -32,7 +31,6 @@ body {
   height: 50px;
   margin: auto;
   margin-top: 10px;
-  /* margin: 5px 0px; */
 }
 
 .logo {
